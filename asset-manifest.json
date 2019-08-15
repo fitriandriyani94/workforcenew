@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/workforcenew/static/css/main.2cce8147.chunk.css",
+    "main.js": "/workforcenew/static/js/main.655d3acd.chunk.js",
+    "main.js.map": "/workforcenew/static/js/main.655d3acd.chunk.js.map",
+    "runtime~main.js": "/workforcenew/static/js/runtime~main.a33dccef.js",
+    "runtime~main.js.map": "/workforcenew/static/js/runtime~main.a33dccef.js.map",
+    "static/js/2.b6e086f5.chunk.js": "/workforcenew/static/js/2.b6e086f5.chunk.js",
+    "static/js/2.b6e086f5.chunk.js.map": "/workforcenew/static/js/2.b6e086f5.chunk.js.map",
+    "index.html": "/workforcenew/index.html",
+    "precache-manifest.bfd5c6387396ace06f3ceed8209120c7.js": "/workforcenew/precache-manifest.bfd5c6387396ace06f3ceed8209120c7.js",
+    "service-worker.js": "/workforcenew/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/workforcenew/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/workforcenew/static/media/logo.5d5d9eef.svg"
+  }
+}
